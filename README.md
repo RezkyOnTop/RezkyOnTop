@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm rez 👋</h1>
+<h1 align="center">Hi, I'm Rez 👋</h1>
 
 <p align="center">
   <b>AI / Automation enthusiast</b> &nbsp;·&nbsp; Student learning to code
