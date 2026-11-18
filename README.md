@@ -1,53 +1,26 @@
-<h1 align="center">Hi, I'm Rez 👋</h1>
+<h1 align="center">Rez</h1>
 
 <p align="center">
-  <b>AI / Automation enthusiast</b> &nbsp;·&nbsp; Student learning to code
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Indonesia-🇮🇩-red?style=flat-square" alt="Indonesia" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-6C63FF?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Learning%20Everyday-success?style=flat-square" alt="Status" />
+  Student · building web apps and automation, mostly in TypeScript and Python.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### What I'm working on
 
-- 🎓 Student, currently learning programming and building small projects
-- 🤖 Passionate about **AI & Automation** — exploring AI coding agents and tooling
-- 🌱 Always learning something new, one commit at a time
-- 📍 Based in **Indonesia**
+- **[portal-diskominfo-hst](https://github.com/RezkyOnTop/portal-diskominfo-hst)** — portal resmi Diskominfo SP Kabupaten Hulu Sungai Tengah. Next.js 16 App Router, Prisma + PostgreSQL, 23 halaman publik, 14 halaman dashboard, 447 tes otomatis.
+- **mechanic-computer-website** — company profile site, Next.js 15 + Tailwind CSS.
 
----
+### Sudah dipakai sehari-hari
 
-### 🛠️ Tech & Tools
+`TypeScript` · `Next.js` · `React` · `Tailwind CSS` · `Prisma` · `PostgreSQL` · `Python` · `Git` · `Linux`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+### Sebelumnya
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RezkyOnTop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&v=3" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezkyOnTop&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=3" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RezkyOnTop&theme=tokyonight&hide_border=true&v=3" />
-</p>
+`PHP` · `Laravel` · `Lua` — proyek kuliah dan eksperimen kecil.
 
 ---
 
 <p align="center">
-  <i>“Automate the boring stuff, learn the interesting stuff.”</i>
+  <sub>Indonesia · terbuka untuk diskusi lewat Issues di repositori mana pun.</sub>
 </p>
